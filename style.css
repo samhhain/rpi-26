@@ -20,7 +20,7 @@
 
         /* Layout Containers */
         header {
-            background-color: #222222;
+            background-color: #000000;
             padding: 1rem;
             border-bottom: 1px solid #000000;
             text-align: center;
@@ -35,7 +35,7 @@
         }
 
         section {
-            background: #222;
+            background: #111111;
             margin-bottom: 1rem;
             padding: 1.0rem;
             border-radius: 8px;
@@ -86,7 +86,7 @@
         }
         
         div {
-        border: 1px solid rgb(0, 0, 0);
+        border: 1px solid #a09f9f;
         padding: 8px;
         align: left;
         border-radius: 25px;
